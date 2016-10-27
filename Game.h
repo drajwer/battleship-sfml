@@ -8,7 +8,7 @@
 #include "player.h"
 using namespace std;
 using namespace sf;
-
+kacper fujara
 
 class Connector
 {
